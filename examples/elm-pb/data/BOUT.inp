@@ -73,7 +73,7 @@ mxstep = 5000   # Number of internal steps between outputs
 density = 1.0e19       # number density of deuterium [m^-3]
                        # used to produce output normalisations
 
-evolve_jpar = false     # If true, evolve J raher than Psi
+evolve_jpar = false     # If true, evolve J raher than Psi(The J here is J parallel)
 
 evolve_pressure = true # If false, switch off all pressure evolution
 
